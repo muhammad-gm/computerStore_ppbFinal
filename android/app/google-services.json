@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796957490545",
+    "project_id": "computeronlinestore-ppbfinal",
+    "storage_bucket": "computeronlinestore-ppbfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796957490545:android:0c2dac5cba676786448ad0",
+        "android_client_info": {
+          "package_name": "com.example.online_computer_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaWYx7R5C8J9RODH-YAcFWrQ8O3WbNef4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
